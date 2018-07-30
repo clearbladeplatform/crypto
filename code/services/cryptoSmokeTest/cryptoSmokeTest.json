@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,crypto",
+    "logging_enabled": "false",
+    "name": "cryptoSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "cryptoSmokeTest.js"
+}
